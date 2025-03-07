@@ -1,22 +1,28 @@
 # Still Under Maintenance
 
-## Description
-This repository is currently under maintenance. It is being actively worked on to improve stability, performance, and features. Updates will be provided as progress is made.
+##upcoming
+🔍 OSINT
+👁 Reconnaissance
+🕷 Web Application Penetration Test
+💉 SQL Injection
+🔑 Password Cracking
 
-## Status
-🛠️ **Under Maintenance** – Expect changes, updates, and possible downtime.
+## Reverse Shell Generator
+
+## Description
+A web-based tool designed to help security professionals and ethical hackers generate various reverse shell commands for different operating systems and shell types. This tool provides a user-friendly interface to customize and retrieve commands that can be used for penetration testing and security assessments.
+
+## Features
+- **Command Search**: Quickly find specific commands using the search functionality.
+- **OS Filtering**: Filter commands based on the target operating system (Windows, Linux, macOS).
+- **Type Filtering**: Choose from different types of shells, including Reverse Shell, Bind Shell, MSFVenom, and HoaxShell.
+- **Customizable Parameters**: Input your own IP address and port number to generate tailored commands.
+- **Copy to Clipboard**: Easily copy generated commands to your clipboard for quick use.
 
 ## Installation
-Currently, the repository is not ready for public installation or use. Please check back later for instructions.
+To run the Reverse Shell Generator locally, clone the repository and open the `index.html` file in your web browser.
 
-## Usage
-Not available at the moment due to ongoing maintenance.
-
-## Contribution
-Contributions are currently on hold while maintenance is in progress. If you have suggestions or would like to contribute in the future, please stay tuned for updates.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any inquiries or updates, please check the repository or reach out to the maintainers.
+```bash
+git clone https://github.com/yourusername/Reverse-Shell-Generator.git
+cd Reverse-Shell-Generator
+open index.html
