@@ -1,11 +1,11 @@
 # Still Under Maintenance
 
-##upcoming
-🔍 OSINT
-👁 Reconnaissance
-🕷 Web Application Penetration Test
-💉 SQL Injection
-🔑 Password Cracking
+## upcoming
+- 🔍 OSINT
+- 👁 Reconnaissance
+- 🕷 Web Application Penetration Test
+- 💉 SQL Injection
+- 🔑 Password Cracking
 
 ## Reverse Shell Generator
 
